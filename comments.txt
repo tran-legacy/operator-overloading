@@ -1,0 +1,8 @@
+1. Secret Number: 6050
+2. Hours: 10 hours
+3. Comments: 
+- difference between Visual Studio and Linux lab output 
+- Core dump after "Done" was printed 
+	-> FIXED: Array was not set to NULL in default constructor
+- when I used -Weffc++ as apart of my compilation, it spitted out warnings that my
+  member variables "should be initialized in the member initialization list". 
